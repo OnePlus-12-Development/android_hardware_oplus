@@ -92,7 +92,7 @@
     </hal>
     <hal format="aidl" optional="true">
         <name>vendor.oplus.hardware.charger</name>
-        <version>5</version>
+        <version>6</version>
         <interface>
             <name>ICharger</name>
             <instance>default</instance>
